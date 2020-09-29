@@ -9,7 +9,7 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Motivation
 
-My desire to work on these projects was to review JavaScript application without getting bogged down finetuning CSS.
+My desire to work on these projects was to review JavaScript topics without getting bogged down finetuning CSS.
 
 ## Installation
 
